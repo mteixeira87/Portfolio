@@ -1,4 +1,4 @@
-# Who Am I
+# Micaella Rodrigues
 Aspiring Data Scientist | Content will be updated twice a month | First project due to 15-06-2021 
 
 # Education
