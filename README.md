@@ -1,5 +1,5 @@
 # Micaella Rodrigues
-Aspiring Data Scientist | Content will be updated twice a month | First project due to 15-06-2021 
+Aspiring Data Scientist | Content will be updated twice a month | First project due to ~15-06-2021~ 18-06-2021
 
 # Education
 * Civil Engineering (undergraduation), *Universidade Federal do Ceará*, 2005-2010
